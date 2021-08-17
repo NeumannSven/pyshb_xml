@@ -1,0 +1,6 @@
+<Tk title="Meine Applikation">
+    <Frame>
+        <Button>Meine Seite</Button>
+        <Button x="120" y="400">Hallo Welt!</Button>
+    </Frame>
+</Tk>

@@ -1,0 +1,12 @@
+<Tk title="Meine super neue Applikation" x="40" y="30" width="800" height="600">
+    <Frame>
+        <Button cmd="cmd_btn1" column="0" row="0">Meine Seite</Button>
+        <Button cmd="beenden" column="2" row="2">Ende</Button>
+        <Button cmd="starten" column="3" row="4">Button 3</Button>
+        <Button column="3" row="6">Button 4</Button>
+        <Button cmd="aktivieren" column="0" row="6">Button 5</Button>
+        <Button column="1" row="2">Button 6</Button>
+        <Button cmd="drucke" column="2" row="5">Button 7</Button>
+        <Button cmd="func8" column="3" row="8">Button 8</Button>
+    </Frame>
+</Tk>
